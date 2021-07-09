@@ -1,0 +1,9 @@
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\PDF_2\PDF_2\bin\Debug\PDF_2.exe.config
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\PDF_2\PDF_2\bin\Debug\PDF_2.exe
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\PDF_2\PDF_2\bin\Debug\PDF_2.pdb
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\PDF_2\PDF_2\obj\Debug\PDF_2.csprojResolveAssemblyReference.cache
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\PDF_2\PDF_2\obj\Debug\PDF_2.Form1.resources
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\PDF_2\PDF_2\obj\Debug\PDF_2.Properties.Resources.resources
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\PDF_2\PDF_2\obj\Debug\PDF_2.csproj.GenerateResource.Cache
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\PDF_2\PDF_2\obj\Debug\PDF_2.exe
+d:\users\eduardo.cruces\documents\visual studio 2013\Projects\PDF_2\PDF_2\obj\Debug\PDF_2.pdb
